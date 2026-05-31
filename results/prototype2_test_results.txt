@@ -1,0 +1,185 @@
+(rl_robot_env) swapnadeep-paty@swapnadeep-paty:~/Desktop/rl_project$ python3 2nd_test.py
+pybullet build time: Mar 26 2026 23:21:47
+Gym has been unmaintained since 2022 and does not support NumPy 2.0 amongst other critical functionality.
+Please upgrade to Gymnasium, the maintained drop-in replacement of Gym, or contact the authors of your software and request that they upgrade.
+Users of this version of Gym should be able to simply replace 'import gym' with 'import gymnasium as gym' in the vast majority of cases.
+See the migration guide at https://gymnasium.farama.org/introduction/migration_guide/ for additional information.
+startThreads creating 1 threads.
+starting thread 0
+started thread 0 
+argc=2
+argv[0] = --unused
+argv[1] = --start_demo_name=Physics Server
+ExampleBrowserThreadFunc started
+X11 functions dynamically loaded using dlopen/dlsym OK!
+X11 functions dynamically loaded using dlopen/dlsym OK!
+Creating context
+Created GL 3.3 context
+Direct GLX rendering context obtained
+Making context current
+GL_VENDOR=Intel
+GL_RENDERER=Mesa Intel(R) HD Graphics 530 (SKL GT2)
+GL_VERSION=4.6 (Core Profile) Mesa 25.2.8-0ubuntu0.24.04.1
+GL_SHADING_LANGUAGE_VERSION=4.60
+pthread_getconcurrency()=0
+Version = 4.6 (Core Profile) Mesa 25.2.8-0ubuntu0.24.04.1
+Vendor = Intel
+Renderer = Mesa Intel(R) HD Graphics 530 (SKL GT2)
+b3Printf: Selected demo: Physics Server
+startThreads creating 1 threads.
+starting thread 0
+started thread 0 
+MotionThreadFunc thread started
+Loading model: 2nd_model
+ven = Intel
+Workaround for some crash in the Intel OpenGL driver on Linux/Ubuntu
+ven = Intel
+Workaround for some crash in the Intel OpenGL driver on Linux/Ubuntu
+
+===============================
+EPISODE 1/20
+===============================
+✅ SUCCESS (EEF_CONTACT) | steps=44 | dist=0.1293 m | search_found=True
+Running accuracy: 1/1 = 100.0%
+
+===============================
+EPISODE 2/20
+===============================
+✅ SUCCESS (EEF_CONTACT) | steps=38 | dist=0.1295 m | search_found=True
+Running accuracy: 2/2 = 100.0%
+
+===============================
+EPISODE 3/20
+===============================
+✅ SUCCESS (EEF_CONTACT) | steps=41 | dist=0.1300 m | search_found=True
+Running accuracy: 3/3 = 100.0%
+
+===============================
+EPISODE 4/20
+===============================
+✅ SUCCESS (EEF_CONTACT) | steps=42 | dist=0.1298 m | search_found=True
+Running accuracy: 4/4 = 100.0%
+
+===============================
+EPISODE 5/20
+===============================
+✅ SUCCESS (EEF_CONTACT) | steps=41 | dist=0.1299 m | search_found=True
+Running accuracy: 5/5 = 100.0%
+
+===============================
+EPISODE 6/20
+===============================
+✅ SUCCESS (EEF_CONTACT) | steps=36 | dist=0.1295 m | search_found=True
+Running accuracy: 6/6 = 100.0%
+
+===============================
+EPISODE 7/20
+===============================
+✅ SUCCESS (EEF_CONTACT) | steps=38 | dist=0.1297 m | search_found=True
+Running accuracy: 7/7 = 100.0%
+
+===============================
+EPISODE 8/20
+===============================
+✅ SUCCESS (EEF_CONTACT) | steps=41 | dist=0.1298 m | search_found=True
+Running accuracy: 8/8 = 100.0%
+
+===============================
+EPISODE 9/20
+===============================
+✅ SUCCESS (EEF_CONTACT) | steps=53 | dist=0.1288 m | search_found=True
+Running accuracy: 9/9 = 100.0%
+
+===============================
+EPISODE 10/20
+===============================
+✅ SUCCESS (EEF_CONTACT) | steps=51 | dist=0.1296 m | search_found=True
+Running accuracy: 10/10 = 100.0%
+
+===============================
+EPISODE 11/20
+===============================
+✅ SUCCESS (EEF_CONTACT) | steps=41 | dist=0.1298 m | search_found=True
+Running accuracy: 11/11 = 100.0%
+
+===============================
+EPISODE 12/20
+===============================
+✅ SUCCESS (EEF_CONTACT) | steps=49 | dist=0.1295 m | search_found=True
+Running accuracy: 12/12 = 100.0%
+
+===============================
+EPISODE 13/20
+===============================
+✅ SUCCESS (EEF_CONTACT) | steps=40 | dist=0.1297 m | search_found=True
+Running accuracy: 13/13 = 100.0%
+
+===============================
+EPISODE 14/20
+===============================
+✅ SUCCESS (EEF_CONTACT) | steps=37 | dist=0.1294 m | search_found=True
+Running accuracy: 14/14 = 100.0%
+
+===============================
+EPISODE 15/20
+===============================
+✅ SUCCESS (EEF_CONTACT) | steps=38 | dist=0.1296 m | search_found=True
+Running accuracy: 15/15 = 100.0%
+
+===============================
+EPISODE 16/20
+===============================
+✅ SUCCESS (EEF_CONTACT) | steps=40 | dist=0.1293 m | search_found=True
+Running accuracy: 16/16 = 100.0%
+
+===============================
+EPISODE 17/20
+===============================
+✅ SUCCESS (EEF_CONTACT) | steps=36 | dist=0.1296 m | search_found=True
+Running accuracy: 17/17 = 100.0%
+
+===============================
+EPISODE 18/20
+===============================
+✅ SUCCESS (EEF_CONTACT) | steps=48 | dist=0.1298 m | search_found=True
+Running accuracy: 18/18 = 100.0%
+
+===============================
+EPISODE 19/20
+===============================
+✅ SUCCESS (EEF_CONTACT) | steps=46 | dist=0.1296 m | search_found=True
+Running accuracy: 19/19 = 100.0%
+
+===============================
+EPISODE 20/20
+===============================
+✅ SUCCESS (EEF_CONTACT) | steps=44 | dist=0.1295 m | search_found=True
+Running accuracy: 20/20 = 100.0%
+
+===================================
+FINAL RESULT
+===================================
+Success = 20
+Fail    = 0
+Accuracy = 100.00%
+Success by distance = 0
+Success by EEF contact = 20
+Search failed episodes = 0
+===================================
+numActiveThreads = 0
+stopping threads
+Thread with taskId 0 exiting
+Thread TERMINATED
+destroy semaphore
+semaphore destroyed
+destroy main semaphore
+main semaphore destroyed
+finished
+numActiveThreads = 0
+btShutDownExampleBrowser stopping threads
+Thread with taskId 0 exiting
+Thread TERMINATED
+destroy semaphore
+semaphore destroyed
+destroy main semaphore
+main semaphore destroyed

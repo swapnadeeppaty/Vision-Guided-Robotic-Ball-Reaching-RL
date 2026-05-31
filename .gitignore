@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+rl_robot_env/
+
+# OS
+.DS_Store
+
+# Logs / outputs
+*.log
+
+# Optional: if you decide not to upload models directly
+# models/*.zip

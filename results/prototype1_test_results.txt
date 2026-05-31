@@ -1,0 +1,1012 @@
+✅ Reached: 1195 | ❌ Failed: 28
+
+🎯 Ball X: 0.432877
+✅ Reached: 1196 | ❌ Failed: 28
+
+🎯 Ball X: 0.759723
+✅ Reached: 1197 | ❌ Failed: 28
+
+🎯 Ball X: 0.734543
+✅ Reached: 1198 | ❌ Failed: 28
+
+🎯 Ball X: 0.636441
+✅ Reached: 1199 | ❌ Failed: 28
+
+🎯 Ball X: 0.565323
+✅ Reached: 1200 | ❌ Failed: 28
+
+🎯 Ball X: 0.339620
+✅ Reached: 1201 | ❌ Failed: 28
+
+🎯 Ball X: 0.374100
+✅ Reached: 1202 | ❌ Failed: 28
+
+🎯 Ball X: 0.307406
+✅ Reached: 1203 | ❌ Failed: 28
+
+🎯 Ball X: 0.610363
+✅ Reached: 1204 | ❌ Failed: 28
+
+🎯 Ball X: 0.640742
+✅ Reached: 1205 | ❌ Failed: 28
+
+🎯 Ball X: 0.559479
+✅ Reached: 1206 | ❌ Failed: 28
+
+🎯 Ball X: 0.514072
+✅ Reached: 1207 | ❌ Failed: 28
+
+🎯 Ball X: 0.785944
+✅ Reached: 1208 | ❌ Failed: 28
+
+🎯 Ball X: 0.721989
+✅ Reached: 1209 | ❌ Failed: 28
+
+🎯 Ball X: 0.711821
+✅ Reached: 1210 | ❌ Failed: 28
+
+🎯 Ball X: 0.333030
+✅ Reached: 1211 | ❌ Failed: 28
+
+🎯 Ball X: 0.417699
+✅ Reached: 1212 | ❌ Failed: 28
+
+🎯 Ball X: 0.576863
+✅ Reached: 1213 | ❌ Failed: 28
+
+🎯 Ball X: 0.685975
+✅ Reached: 1214 | ❌ Failed: 28
+
+🎯 Ball X: 0.432291
+✅ Reached: 1215 | ❌ Failed: 28
+
+🎯 Ball X: 0.590339
+✅ Reached: 1216 | ❌ Failed: 28
+
+🎯 Ball X: 0.704917
+✅ Reached: 1217 | ❌ Failed: 28
+
+🎯 Ball X: 0.579839
+✅ Reached: 1218 | ❌ Failed: 28
+
+🎯 Ball X: 0.381026
+✅ Reached: 1219 | ❌ Failed: 28
+
+🎯 Ball X: 0.762222
+✅ Reached: 1220 | ❌ Failed: 28
+
+🎯 Ball X: 0.664033
+✅ Reached: 1221 | ❌ Failed: 28
+
+🎯 Ball X: 0.311256
+✅ Reached: 1222 | ❌ Failed: 28
+
+🎯 Ball X: 0.531408
+✅ Reached: 1223 | ❌ Failed: 28
+
+🎯 Ball X: 0.695700
+✅ Reached: 1224 | ❌ Failed: 28
+
+🎯 Ball X: 0.409250
+✅ Reached: 1225 | ❌ Failed: 28
+
+🎯 Ball X: 0.578228
+✅ Reached: 1226 | ❌ Failed: 28
+
+🎯 Ball X: 0.534097
+✅ Reached: 1227 | ❌ Failed: 28
+
+🎯 Ball X: 0.740266
+✅ Reached: 1228 | ❌ Failed: 28
+
+🎯 Ball X: 0.452816
+✅ Reached: 1229 | ❌ Failed: 28
+
+🎯 Ball X: 0.412333
+✅ Reached: 1230 | ❌ Failed: 28
+
+🎯 Ball X: 0.610073
+✅ Reached: 1231 | ❌ Failed: 28
+
+🎯 Ball X: 0.574875
+✅ Reached: 1232 | ❌ Failed: 28
+
+🎯 Ball X: 0.315715
+✅ Reached: 1233 | ❌ Failed: 28
+
+🎯 Ball X: 0.580187
+✅ Reached: 1234 | ❌ Failed: 28
+
+🎯 Ball X: 0.439985
+✅ Reached: 1235 | ❌ Failed: 28
+
+🎯 Ball X: 0.414386
+✅ Reached: 1236 | ❌ Failed: 28
+
+🎯 Ball X: 0.772388
+✅ Reached: 1237 | ❌ Failed: 28
+
+🎯 Ball X: 0.533173
+✅ Reached: 1238 | ❌ Failed: 28
+
+🎯 Ball X: 0.372736
+✅ Reached: 1239 | ❌ Failed: 28
+
+🎯 Ball X: 0.543261
+✅ Reached: 1240 | ❌ Failed: 28
+
+🎯 Ball X: 0.492813
+✅ Reached: 1241 | ❌ Failed: 28
+
+🎯 Ball X: 0.427971
+✅ Reached: 1242 | ❌ Failed: 28
+
+🎯 Ball X: 0.526096
+✅ Reached: 1243 | ❌ Failed: 28
+
+🎯 Ball X: 0.312431
+✅ Reached: 1243 | ❌ Failed: 29
+
+🎯 Ball X: 0.672172
+✅ Reached: 1244 | ❌ Failed: 29
+
+🎯 Ball X: 0.660914
+✅ Reached: 1245 | ❌ Failed: 29
+
+🎯 Ball X: 0.578971
+✅ Reached: 1246 | ❌ Failed: 29
+
+🎯 Ball X: 0.508024
+✅ Reached: 1247 | ❌ Failed: 29
+
+🎯 Ball X: 0.740201
+✅ Reached: 1248 | ❌ Failed: 29
+
+🎯 Ball X: 0.403522
+✅ Reached: 1249 | ❌ Failed: 29
+
+🎯 Ball X: 0.468343
+✅ Reached: 1250 | ❌ Failed: 29
+
+🎯 Ball X: 0.361770
+✅ Reached: 1251 | ❌ Failed: 29
+
+🎯 Ball X: 0.429356
+✅ Reached: 1252 | ❌ Failed: 29
+
+🎯 Ball X: 0.610874
+✅ Reached: 1253 | ❌ Failed: 29
+
+🎯 Ball X: 0.798722
+✅ Reached: 1254 | ❌ Failed: 29
+
+🎯 Ball X: 0.546447
+✅ Reached: 1255 | ❌ Failed: 29
+
+🎯 Ball X: 0.758012
+✅ Reached: 1256 | ❌ Failed: 29
+
+🎯 Ball X: 0.786785
+✅ Reached: 1257 | ❌ Failed: 29
+
+🎯 Ball X: 0.610232
+✅ Reached: 1258 | ❌ Failed: 29
+
+🎯 Ball X: 0.704158
+✅ Reached: 1259 | ❌ Failed: 29
+
+🎯 Ball X: 0.364561
+✅ Reached: 1260 | ❌ Failed: 29
+
+🎯 Ball X: 0.522055
+✅ Reached: 1261 | ❌ Failed: 29
+
+🎯 Ball X: 0.561265
+✅ Reached: 1262 | ❌ Failed: 29
+
+🎯 Ball X: 0.389478
+✅ Reached: 1263 | ❌ Failed: 29
+
+🎯 Ball X: 0.553510
+✅ Reached: 1264 | ❌ Failed: 29
+
+🎯 Ball X: 0.315473
+✅ Reached: 1265 | ❌ Failed: 29
+
+🎯 Ball X: 0.589981
+✅ Reached: 1266 | ❌ Failed: 29
+
+🎯 Ball X: 0.329646
+✅ Reached: 1267 | ❌ Failed: 29
+
+🎯 Ball X: 0.374489
+✅ Reached: 1268 | ❌ Failed: 29
+
+🎯 Ball X: 0.553558
+✅ Reached: 1269 | ❌ Failed: 29
+
+🎯 Ball X: 0.610737
+✅ Reached: 1270 | ❌ Failed: 29
+
+🎯 Ball X: 0.447954
+✅ Reached: 1271 | ❌ Failed: 29
+
+🎯 Ball X: 0.646311
+✅ Reached: 1272 | ❌ Failed: 29
+
+🎯 Ball X: 0.740986
+✅ Reached: 1273 | ❌ Failed: 29
+
+🎯 Ball X: 0.732539
+✅ Reached: 1274 | ❌ Failed: 29
+
+🎯 Ball X: 0.505138
+✅ Reached: 1275 | ❌ Failed: 29
+
+🎯 Ball X: 0.341183
+✅ Reached: 1276 | ❌ Failed: 29
+
+🎯 Ball X: 0.708852
+✅ Reached: 1277 | ❌ Failed: 29
+
+🎯 Ball X: 0.685796
+✅ Reached: 1278 | ❌ Failed: 29
+
+🎯 Ball X: 0.728425
+✅ Reached: 1279 | ❌ Failed: 29
+
+🎯 Ball X: 0.641366
+✅ Reached: 1280 | ❌ Failed: 29
+
+🎯 Ball X: 0.545373
+✅ Reached: 1281 | ❌ Failed: 29
+
+🎯 Ball X: 0.735097
+✅ Reached: 1282 | ❌ Failed: 29
+
+🎯 Ball X: 0.747891
+✅ Reached: 1283 | ❌ Failed: 29
+
+🎯 Ball X: 0.414441
+✅ Reached: 1284 | ❌ Failed: 29
+
+🎯 Ball X: 0.477883
+✅ Reached: 1285 | ❌ Failed: 29
+
+🎯 Ball X: 0.362932
+✅ Reached: 1286 | ❌ Failed: 29
+
+🎯 Ball X: 0.542873
+✅ Reached: 1287 | ❌ Failed: 29
+
+🎯 Ball X: 0.634384
+✅ Reached: 1288 | ❌ Failed: 29
+
+🎯 Ball X: 0.601501
+✅ Reached: 1289 | ❌ Failed: 29
+
+🎯 Ball X: 0.542548
+✅ Reached: 1290 | ❌ Failed: 29
+
+🎯 Ball X: 0.365582
+✅ Reached: 1291 | ❌ Failed: 29
+
+🎯 Ball X: 0.488814
+✅ Reached: 1292 | ❌ Failed: 29
+
+🎯 Ball X: 0.627816
+✅ Reached: 1293 | ❌ Failed: 29
+
+🎯 Ball X: 0.527209
+✅ Reached: 1294 | ❌ Failed: 29
+
+🎯 Ball X: 0.555753
+✅ Reached: 1295 | ❌ Failed: 29
+
+🎯 Ball X: 0.497886
+✅ Reached: 1296 | ❌ Failed: 29
+
+🎯 Ball X: 0.515371
+✅ Reached: 1297 | ❌ Failed: 29
+
+🎯 Ball X: 0.319698
+✅ Reached: 1298 | ❌ Failed: 29
+
+🎯 Ball X: 0.661931
+✅ Reached: 1299 | ❌ Failed: 29
+
+🎯 Ball X: 0.458192
+✅ Reached: 1300 | ❌ Failed: 29
+
+🎯 Ball X: 0.662391
+✅ Reached: 1301 | ❌ Failed: 29
+
+🎯 Ball X: 0.705373
+✅ Reached: 1302 | ❌ Failed: 29
+
+🎯 Ball X: 0.558839
+✅ Reached: 1303 | ❌ Failed: 29
+
+🎯 Ball X: 0.588481
+✅ Reached: 1304 | ❌ Failed: 29
+
+🎯 Ball X: 0.786249
+✅ Reached: 1305 | ❌ Failed: 29
+
+🎯 Ball X: 0.749811
+✅ Reached: 1306 | ❌ Failed: 29
+
+🎯 Ball X: 0.708442
+✅ Reached: 1307 | ❌ Failed: 29
+
+🎯 Ball X: 0.762782
+✅ Reached: 1308 | ❌ Failed: 29
+
+🎯 Ball X: 0.717923
+✅ Reached: 1309 | ❌ Failed: 29
+
+🎯 Ball X: 0.312560
+✅ Reached: 1309 | ❌ Failed: 30
+
+🎯 Ball X: 0.481039
+✅ Reached: 1310 | ❌ Failed: 30
+
+🎯 Ball X: 0.517207
+✅ Reached: 1311 | ❌ Failed: 30
+
+🎯 Ball X: 0.662372
+✅ Reached: 1312 | ❌ Failed: 30
+
+🎯 Ball X: 0.318795
+✅ Reached: 1313 | ❌ Failed: 30
+
+🎯 Ball X: 0.565177
+✅ Reached: 1314 | ❌ Failed: 30
+
+🎯 Ball X: 0.373353
+✅ Reached: 1315 | ❌ Failed: 30
+
+🎯 Ball X: 0.364584
+✅ Reached: 1316 | ❌ Failed: 30
+
+🎯 Ball X: 0.424394
+✅ Reached: 1317 | ❌ Failed: 30
+
+🎯 Ball X: 0.578357
+✅ Reached: 1318 | ❌ Failed: 30
+
+🎯 Ball X: 0.674931
+✅ Reached: 1319 | ❌ Failed: 30
+
+🎯 Ball X: 0.630712
+✅ Reached: 1320 | ❌ Failed: 30
+
+🎯 Ball X: 0.784648
+✅ Reached: 1321 | ❌ Failed: 30
+
+🎯 Ball X: 0.607952
+✅ Reached: 1322 | ❌ Failed: 30
+
+🎯 Ball X: 0.375350
+✅ Reached: 1323 | ❌ Failed: 30
+
+🎯 Ball X: 0.355535
+✅ Reached: 1324 | ❌ Failed: 30
+
+🎯 Ball X: 0.589954
+✅ Reached: 1325 | ❌ Failed: 30
+
+🎯 Ball X: 0.578668
+✅ Reached: 1326 | ❌ Failed: 30
+
+🎯 Ball X: 0.416406
+✅ Reached: 1327 | ❌ Failed: 30
+
+🎯 Ball X: 0.716548
+✅ Reached: 1328 | ❌ Failed: 30
+
+🎯 Ball X: 0.364769
+✅ Reached: 1329 | ❌ Failed: 30
+
+🎯 Ball X: 0.499750
+✅ Reached: 1330 | ❌ Failed: 30
+
+🎯 Ball X: 0.735183
+✅ Reached: 1331 | ❌ Failed: 30
+
+🎯 Ball X: 0.368541
+✅ Reached: 1332 | ❌ Failed: 30
+
+🎯 Ball X: 0.623587
+✅ Reached: 1333 | ❌ Failed: 30
+
+🎯 Ball X: 0.654037
+✅ Reached: 1334 | ❌ Failed: 30
+
+🎯 Ball X: 0.677647
+✅ Reached: 1335 | ❌ Failed: 30
+
+🎯 Ball X: 0.746849
+✅ Reached: 1336 | ❌ Failed: 30
+
+🎯 Ball X: 0.645000
+✅ Reached: 1337 | ❌ Failed: 30
+
+🎯 Ball X: 0.710180
+✅ Reached: 1338 | ❌ Failed: 30
+
+🎯 Ball X: 0.495547
+✅ Reached: 1339 | ❌ Failed: 30
+
+🎯 Ball X: 0.531996
+✅ Reached: 1340 | ❌ Failed: 30
+
+🎯 Ball X: 0.406049
+✅ Reached: 1341 | ❌ Failed: 30
+
+🎯 Ball X: 0.656318
+✅ Reached: 1342 | ❌ Failed: 30
+
+🎯 Ball X: 0.537665
+✅ Reached: 1343 | ❌ Failed: 30
+
+🎯 Ball X: 0.709811
+✅ Reached: 1344 | ❌ Failed: 30
+
+🎯 Ball X: 0.783073
+✅ Reached: 1345 | ❌ Failed: 30
+
+🎯 Ball X: 0.618560
+✅ Reached: 1346 | ❌ Failed: 30
+
+🎯 Ball X: 0.413705
+✅ Reached: 1347 | ❌ Failed: 30
+
+🎯 Ball X: 0.484991
+✅ Reached: 1348 | ❌ Failed: 30
+
+🎯 Ball X: 0.597281
+✅ Reached: 1349 | ❌ Failed: 30
+
+🎯 Ball X: 0.779795
+✅ Reached: 1349 | ❌ Failed: 31
+
+🎯 Ball X: 0.686049
+✅ Reached: 1350 | ❌ Failed: 31
+
+🎯 Ball X: 0.752120
+✅ Reached: 1351 | ❌ Failed: 31
+
+🎯 Ball X: 0.549332
+✅ Reached: 1352 | ❌ Failed: 31
+
+🎯 Ball X: 0.462524
+✅ Reached: 1353 | ❌ Failed: 31
+
+🎯 Ball X: 0.754887
+✅ Reached: 1354 | ❌ Failed: 31
+
+🎯 Ball X: 0.376168
+✅ Reached: 1355 | ❌ Failed: 31
+
+🎯 Ball X: 0.385667
+✅ Reached: 1356 | ❌ Failed: 31
+
+🎯 Ball X: 0.365583
+✅ Reached: 1357 | ❌ Failed: 31
+
+🎯 Ball X: 0.382327
+✅ Reached: 1358 | ❌ Failed: 31
+
+🎯 Ball X: 0.301725
+✅ Reached: 1358 | ❌ Failed: 32
+
+🎯 Ball X: 0.574059
+✅ Reached: 1359 | ❌ Failed: 32
+
+🎯 Ball X: 0.610755
+✅ Reached: 1360 | ❌ Failed: 32
+
+🎯 Ball X: 0.323790
+✅ Reached: 1361 | ❌ Failed: 32
+
+🎯 Ball X: 0.342237
+✅ Reached: 1362 | ❌ Failed: 32
+
+🎯 Ball X: 0.416615
+✅ Reached: 1363 | ❌ Failed: 32
+
+🎯 Ball X: 0.480616
+✅ Reached: 1364 | ❌ Failed: 32
+
+🎯 Ball X: 0.483935
+✅ Reached: 1365 | ❌ Failed: 32
+
+🎯 Ball X: 0.354412
+✅ Reached: 1366 | ❌ Failed: 32
+
+🎯 Ball X: 0.740979
+✅ Reached: 1367 | ❌ Failed: 32
+
+🎯 Ball X: 0.492333
+✅ Reached: 1368 | ❌ Failed: 32
+
+🎯 Ball X: 0.621758
+✅ Reached: 1369 | ❌ Failed: 32
+
+🎯 Ball X: 0.400701
+✅ Reached: 1370 | ❌ Failed: 32
+
+🎯 Ball X: 0.703460
+✅ Reached: 1371 | ❌ Failed: 32
+
+🎯 Ball X: 0.506091
+✅ Reached: 1372 | ❌ Failed: 32
+
+🎯 Ball X: 0.774838
+✅ Reached: 1373 | ❌ Failed: 32
+
+🎯 Ball X: 0.643309
+✅ Reached: 1374 | ❌ Failed: 32
+
+🎯 Ball X: 0.797038
+✅ Reached: 1375 | ❌ Failed: 32
+
+🎯 Ball X: 0.669958
+✅ Reached: 1376 | ❌ Failed: 32
+
+🎯 Ball X: 0.403957
+✅ Reached: 1377 | ❌ Failed: 32
+
+🎯 Ball X: 0.503511
+✅ Reached: 1378 | ❌ Failed: 32
+
+🎯 Ball X: 0.778044
+✅ Reached: 1379 | ❌ Failed: 32
+
+🎯 Ball X: 0.622311
+✅ Reached: 1380 | ❌ Failed: 32
+
+🎯 Ball X: 0.365779
+✅ Reached: 1381 | ❌ Failed: 32
+
+🎯 Ball X: 0.684268
+✅ Reached: 1382 | ❌ Failed: 32
+
+🎯 Ball X: 0.462956
+✅ Reached: 1383 | ❌ Failed: 32
+
+🎯 Ball X: 0.481348
+✅ Reached: 1384 | ❌ Failed: 32
+
+🎯 Ball X: 0.396165
+✅ Reached: 1385 | ❌ Failed: 32
+
+🎯 Ball X: 0.580989
+✅ Reached: 1386 | ❌ Failed: 32
+
+🎯 Ball X: 0.799640
+✅ Reached: 1387 | ❌ Failed: 32
+
+🎯 Ball X: 0.425877
+✅ Reached: 1388 | ❌ Failed: 32
+
+🎯 Ball X: 0.503348
+✅ Reached: 1389 | ❌ Failed: 32
+
+🎯 Ball X: 0.508273
+✅ Reached: 1390 | ❌ Failed: 32
+
+🎯 Ball X: 0.603021
+✅ Reached: 1391 | ❌ Failed: 32
+
+🎯 Ball X: 0.685464
+✅ Reached: 1392 | ❌ Failed: 32
+
+🎯 Ball X: 0.613201
+✅ Reached: 1393 | ❌ Failed: 32
+
+🎯 Ball X: 0.496321
+✅ Reached: 1394 | ❌ Failed: 32
+
+🎯 Ball X: 0.616366
+✅ Reached: 1395 | ❌ Failed: 32
+
+🎯 Ball X: 0.395566
+✅ Reached: 1396 | ❌ Failed: 32
+
+🎯 Ball X: 0.656499
+✅ Reached: 1397 | ❌ Failed: 32
+
+🎯 Ball X: 0.461076
+✅ Reached: 1398 | ❌ Failed: 32
+
+🎯 Ball X: 0.542640
+✅ Reached: 1399 | ❌ Failed: 32
+
+🎯 Ball X: 0.591610
+✅ Reached: 1400 | ❌ Failed: 32
+
+🎯 Ball X: 0.614243
+✅ Reached: 1401 | ❌ Failed: 32
+
+🎯 Ball X: 0.755888
+✅ Reached: 1402 | ❌ Failed: 32
+
+🎯 Ball X: 0.355558
+✅ Reached: 1403 | ❌ Failed: 32
+
+🎯 Ball X: 0.684710
+✅ Reached: 1404 | ❌ Failed: 32
+
+🎯 Ball X: 0.632098
+✅ Reached: 1405 | ❌ Failed: 32
+
+🎯 Ball X: 0.702754
+✅ Reached: 1406 | ❌ Failed: 32
+
+🎯 Ball X: 0.691483
+✅ Reached: 1407 | ❌ Failed: 32
+
+🎯 Ball X: 0.735150
+✅ Reached: 1408 | ❌ Failed: 32
+
+🎯 Ball X: 0.794892
+✅ Reached: 1409 | ❌ Failed: 32
+
+🎯 Ball X: 0.615569
+✅ Reached: 1410 | ❌ Failed: 32
+
+🎯 Ball X: 0.309074
+✅ Reached: 1410 | ❌ Failed: 33
+
+🎯 Ball X: 0.580075
+✅ Reached: 1411 | ❌ Failed: 33
+
+🎯 Ball X: 0.383710
+✅ Reached: 1412 | ❌ Failed: 33
+
+🎯 Ball X: 0.589058
+✅ Reached: 1413 | ❌ Failed: 33
+
+🎯 Ball X: 0.705363
+✅ Reached: 1414 | ❌ Failed: 33
+
+🎯 Ball X: 0.626237
+✅ Reached: 1415 | ❌ Failed: 33
+
+🎯 Ball X: 0.392404
+✅ Reached: 1416 | ❌ Failed: 33
+
+🎯 Ball X: 0.317283
+✅ Reached: 1417 | ❌ Failed: 33
+
+🎯 Ball X: 0.311648
+✅ Reached: 1418 | ❌ Failed: 33
+
+🎯 Ball X: 0.361814
+✅ Reached: 1419 | ❌ Failed: 33
+
+🎯 Ball X: 0.409209
+✅ Reached: 1420 | ❌ Failed: 33
+
+🎯 Ball X: 0.747420
+✅ Reached: 1421 | ❌ Failed: 33
+
+🎯 Ball X: 0.315021
+✅ Reached: 1422 | ❌ Failed: 33
+
+🎯 Ball X: 0.323562
+✅ Reached: 1423 | ❌ Failed: 33
+
+🎯 Ball X: 0.743602
+✅ Reached: 1424 | ❌ Failed: 33
+
+🎯 Ball X: 0.590382
+✅ Reached: 1425 | ❌ Failed: 33
+
+🎯 Ball X: 0.559844
+✅ Reached: 1426 | ❌ Failed: 33
+
+🎯 Ball X: 0.301425
+✅ Reached: 1427 | ❌ Failed: 33
+
+🎯 Ball X: 0.553259
+✅ Reached: 1428 | ❌ Failed: 33
+
+🎯 Ball X: 0.308534
+✅ Reached: 1429 | ❌ Failed: 33
+
+🎯 Ball X: 0.421927
+✅ Reached: 1430 | ❌ Failed: 33
+
+🎯 Ball X: 0.697025
+✅ Reached: 1431 | ❌ Failed: 33
+
+🎯 Ball X: 0.650083
+✅ Reached: 1432 | ❌ Failed: 33
+
+🎯 Ball X: 0.383187
+✅ Reached: 1433 | ❌ Failed: 33
+
+🎯 Ball X: 0.542252
+✅ Reached: 1434 | ❌ Failed: 33
+
+🎯 Ball X: 0.637098
+✅ Reached: 1435 | ❌ Failed: 33
+
+🎯 Ball X: 0.548242
+✅ Reached: 1436 | ❌ Failed: 33
+
+🎯 Ball X: 0.309657
+✅ Reached: 1437 | ❌ Failed: 33
+
+🎯 Ball X: 0.426196
+✅ Reached: 1438 | ❌ Failed: 33
+
+🎯 Ball X: 0.723232
+✅ Reached: 1439 | ❌ Failed: 33
+
+🎯 Ball X: 0.474620
+✅ Reached: 1440 | ❌ Failed: 33
+
+🎯 Ball X: 0.545478
+✅ Reached: 1441 | ❌ Failed: 33
+
+🎯 Ball X: 0.441621
+✅ Reached: 1442 | ❌ Failed: 33
+
+🎯 Ball X: 0.502222
+✅ Reached: 1443 | ❌ Failed: 33
+
+🎯 Ball X: 0.511161
+✅ Reached: 1444 | ❌ Failed: 33
+
+🎯 Ball X: 0.507510
+✅ Reached: 1445 | ❌ Failed: 33
+
+🎯 Ball X: 0.650639
+✅ Reached: 1446 | ❌ Failed: 33
+
+🎯 Ball X: 0.682519
+✅ Reached: 1447 | ❌ Failed: 33
+
+🎯 Ball X: 0.647535
+✅ Reached: 1448 | ❌ Failed: 33
+
+🎯 Ball X: 0.343331
+✅ Reached: 1449 | ❌ Failed: 33
+
+🎯 Ball X: 0.520129
+✅ Reached: 1450 | ❌ Failed: 33
+
+🎯 Ball X: 0.438263
+✅ Reached: 1451 | ❌ Failed: 33
+
+🎯 Ball X: 0.586122
+✅ Reached: 1452 | ❌ Failed: 33
+
+🎯 Ball X: 0.319176
+✅ Reached: 1453 | ❌ Failed: 33
+
+🎯 Ball X: 0.792872
+✅ Reached: 1454 | ❌ Failed: 33
+
+🎯 Ball X: 0.760077
+✅ Reached: 1455 | ❌ Failed: 33
+
+🎯 Ball X: 0.679700
+✅ Reached: 1456 | ❌ Failed: 33
+
+🎯 Ball X: 0.779889
+✅ Reached: 1457 | ❌ Failed: 33
+
+🎯 Ball X: 0.758533
+✅ Reached: 1458 | ❌ Failed: 33
+
+🎯 Ball X: 0.714597
+✅ Reached: 1459 | ❌ Failed: 33
+
+🎯 Ball X: 0.682101
+✅ Reached: 1460 | ❌ Failed: 33
+
+🎯 Ball X: 0.592623
+✅ Reached: 1461 | ❌ Failed: 33
+
+🎯 Ball X: 0.606069
+✅ Reached: 1462 | ❌ Failed: 33
+
+🎯 Ball X: 0.569476
+✅ Reached: 1463 | ❌ Failed: 33
+
+🎯 Ball X: 0.395029
+✅ Reached: 1464 | ❌ Failed: 33
+
+🎯 Ball X: 0.300956
+✅ Reached: 1465 | ❌ Failed: 33
+
+🎯 Ball X: 0.748380
+✅ Reached: 1466 | ❌ Failed: 33
+
+🎯 Ball X: 0.577518
+✅ Reached: 1467 | ❌ Failed: 33
+
+🎯 Ball X: 0.592952
+✅ Reached: 1468 | ❌ Failed: 33
+
+🎯 Ball X: 0.635073
+✅ Reached: 1469 | ❌ Failed: 33
+
+🎯 Ball X: 0.379163
+✅ Reached: 1470 | ❌ Failed: 33
+
+🎯 Ball X: 0.552505
+✅ Reached: 1471 | ❌ Failed: 33
+
+🎯 Ball X: 0.649393
+✅ Reached: 1472 | ❌ Failed: 33
+
+🎯 Ball X: 0.502896
+✅ Reached: 1473 | ❌ Failed: 33
+
+🎯 Ball X: 0.797960
+✅ Reached: 1474 | ❌ Failed: 33
+
+🎯 Ball X: 0.471960
+✅ Reached: 1475 | ❌ Failed: 33
+
+🎯 Ball X: 0.761699
+✅ Reached: 1476 | ❌ Failed: 33
+
+🎯 Ball X: 0.617185
+✅ Reached: 1477 | ❌ Failed: 33
+
+🎯 Ball X: 0.747310
+✅ Reached: 1478 | ❌ Failed: 33
+
+🎯 Ball X: 0.771149
+✅ Reached: 1479 | ❌ Failed: 33
+
+🎯 Ball X: 0.694764
+✅ Reached: 1480 | ❌ Failed: 33
+
+🎯 Ball X: 0.572377
+✅ Reached: 1481 | ❌ Failed: 33
+
+🎯 Ball X: 0.501517
+✅ Reached: 1482 | ❌ Failed: 33
+
+🎯 Ball X: 0.757246
+✅ Reached: 1483 | ❌ Failed: 33
+
+🎯 Ball X: 0.519652
+✅ Reached: 1484 | ❌ Failed: 33
+
+🎯 Ball X: 0.786466
+✅ Reached: 1485 | ❌ Failed: 33
+
+🎯 Ball X: 0.318403
+✅ Reached: 1486 | ❌ Failed: 33
+
+🎯 Ball X: 0.715907
+✅ Reached: 1487 | ❌ Failed: 33
+
+🎯 Ball X: 0.573417
+✅ Reached: 1488 | ❌ Failed: 33
+
+🎯 Ball X: 0.533752
+✅ Reached: 1489 | ❌ Failed: 33
+
+🎯 Ball X: 0.694484
+✅ Reached: 1490 | ❌ Failed: 33
+
+🎯 Ball X: 0.527921
+✅ Reached: 1491 | ❌ Failed: 33
+
+🎯 Ball X: 0.632007
+✅ Reached: 1492 | ❌ Failed: 33
+
+🎯 Ball X: 0.749772
+✅ Reached: 1493 | ❌ Failed: 33
+
+🎯 Ball X: 0.482163
+✅ Reached: 1494 | ❌ Failed: 33
+
+🎯 Ball X: 0.762739
+✅ Reached: 1495 | ❌ Failed: 33
+
+🎯 Ball X: 0.795592
+✅ Reached: 1496 | ❌ Failed: 33
+
+🎯 Ball X: 0.507148
+✅ Reached: 1497 | ❌ Failed: 33
+
+🎯 Ball X: 0.442574
+✅ Reached: 1498 | ❌ Failed: 33
+
+🎯 Ball X: 0.305303
+✅ Reached: 1499 | ❌ Failed: 33
+
+🎯 Ball X: 0.388064
+✅ Reached: 1500 | ❌ Failed: 33
+
+🎯 Ball X: 0.607853
+✅ Reached: 1501 | ❌ Failed: 33
+
+🎯 Ball X: 0.780168
+✅ Reached: 1502 | ❌ Failed: 33
+
+🎯 Ball X: 0.608631
+✅ Reached: 1503 | ❌ Failed: 33
+
+🎯 Ball X: 0.590222
+✅ Reached: 1504 | ❌ Failed: 33
+
+🎯 Ball X: 0.369531
+✅ Reached: 1505 | ❌ Failed: 33
+
+🎯 Ball X: 0.418525
+✅ Reached: 1506 | ❌ Failed: 33
+
+🎯 Ball X: 0.748855
+✅ Reached: 1507 | ❌ Failed: 33
+
+🎯 Ball X: 0.635894
+✅ Reached: 1508 | ❌ Failed: 33
+
+🎯 Ball X: 0.355385
+✅ Reached: 1509 | ❌ Failed: 33
+
+🎯 Ball X: 0.650977
+✅ Reached: 1510 | ❌ Failed: 33
+
+🎯 Ball X: 0.791671
+✅ Reached: 1510 | ❌ Failed: 34
+
+🎯 Ball X: 0.702418
+✅ Reached: 1511 | ❌ Failed: 34
+
+🎯 Ball X: 0.640045
+✅ Reached: 1512 | ❌ Failed: 34
+
+🎯 Ball X: 0.459818
+✅ Reached: 1513 | ❌ Failed: 34
+
+🎯 Ball X: 0.592302
+✅ Reached: 1514 | ❌ Failed: 34
+
+🎯 Ball X: 0.510490
+✅ Reached: 1515 | ❌ Failed: 34
+
+🎯 Ball X: 0.541730
+✅ Reached: 1516 | ❌ Failed: 34
+
+🎯 Ball X: 0.389999
+✅ Reached: 1517 | ❌ Failed: 34
+
+🎯 Ball X: 0.641989
+✅ Reached: 1518 | ❌ Failed: 34
+
+🎯 Ball X: 0.475178
+✅ Reached: 1519 | ❌ Failed: 34
+
+🎯 Ball X: 0.614534
+✅ Reached: 1520 | ❌ Failed: 34
+
+🎯 Ball X: 0.567225
+✅ Reached: 1521 | ❌ Failed: 34
+
+🎯 Ball X: 0.673094
+✅ Reached: 1522 | ❌ Failed: 34
+
+🎯 Ball X: 0.766631
+✅ Reached: 1523 | ❌ Failed: 34
+
+🎯 Ball X: 0.509545
+✅ Reached: 1524 | ❌ Failed: 34
+
+🎯 Ball X: 0.780859
+✅ Reached: 1525 | ❌ Failed: 34
+
+🎯 Ball X: 0.598644
+✅ Reached: 1526 | ❌ Failed: 34
