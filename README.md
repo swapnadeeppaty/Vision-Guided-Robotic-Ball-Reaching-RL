@@ -238,3 +238,5 @@ Vision-Guided-Robotic-Ball-Reaching-RL/
 This project is licensed under the MIT License.
 
 See the `LICENSE` file for details.
+
+If you use this work in research, please cite the repository and acknowledge the original author.
