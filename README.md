@@ -74,11 +74,11 @@ This repository contains two different prototypes of the same project, showing t
 
 ### Prototype 1 Demo
 
-`assets/videos/prototype1_demo_small.gif`
+`assets/videos/prototype1_demo.gif`
 
 ### Prototype 2 Demo
 
-`assets/videos/prototype2_demo_small.gif`
+`assets/videos/prototype2_demo.gif`
 
 > If GitHub does not preview the videos directly in the README, open the files from the repository to view or download them.
 
